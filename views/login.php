@@ -55,7 +55,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Acceso | UNIOR</title>
     <link rel="icon" type="image/png" href="../assets/img/logo_unior1.png">
-    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../config/assets/css/style.css">
 </head>
 <body>
 
