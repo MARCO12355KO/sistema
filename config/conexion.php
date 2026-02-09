@@ -3,11 +3,11 @@
  * Conexión a PostgreSQL - Render
  */
 
-$host     = 'dpg-d5g13m95pdvs73cc3u0g-a.oregon-postgres.render.com';
+$host     = 'dpg-d654iunfte5s73d87d00-a.oregon-postgres.render.com;
 $port     = '5432';
-$dbname   = 'sistema_titulacion';
-$user     = 'marco_admin';
-$password = 'M1uKfdB41kv3RGZUQcBTEhRRtVuHjAMu';
+$dbname   = 'sistema_defensas_y43v';
+$user     = 'sistema_defensas_y43v_user';
+$password = '4Vz9E9is06QFcJPUGrndoEYSo4brziFZ';
 
 $dsn = "pgsql:host=$host;port=$port;dbname=$dbname;sslmode=require";
 
