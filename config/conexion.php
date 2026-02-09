@@ -3,7 +3,7 @@
  * Conexión a PostgreSQL - Render
  */
 
-$host     = 'dpg-d654iunfte5s73d87d00-a.oregon-postgres.render.com;
+$host     = 'dpg-d654iunfte5s73d87d00-a.oregon-postgres.render.com';
 $port     = '5432';
 $dbname   = 'sistema_defensas_y43v';
 $user     = 'sistema_defensas_y43v_user';
